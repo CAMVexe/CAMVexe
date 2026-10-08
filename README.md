@@ -14,8 +14,9 @@ foundation and keep growing.
 - **SQL:** T-SQL (SQL Server) and PL/SQL (Oracle): relational modeling, stored
   procedures, functions, triggers, views, indexes, transactions and error handling
 - **Version control:** Git, GitHub
+- **Excel:** ETL, Pivot Tables, Dynamic Reports.
 
 **Refreshing / learning**
-- Python (pandas, NumPy), R (basics), Excel, Power BI
+- Python (pandas, NumPy), R (basics), Power BI
 
 **Also:** C# (university projects, including the web app that uses my database layer)
