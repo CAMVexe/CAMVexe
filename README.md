@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Carlos Montoya 👋
 
-<!--
-**CAMVexe/CAMVexe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Data Engineer** | Costa Rica
 
-Here are some ideas to get you started:
+Informatics Engineering student, more than halfway through my degree, focused on
+relational databases. I enjoy designing schemas and writing the SQL logic behind
+them, and I'm building toward data engineering through hands-on projects and
+courses. I'm looking for a junior role in data where I can apply my SQL
+foundation and keep growing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+**Working knowledge**
+- **SQL:** T-SQL (SQL Server) and PL/SQL (Oracle): relational modeling, stored
+  procedures, functions, triggers, views, indexes, transactions and error handling
+- **Version control:** Git, GitHub
+
+**Refreshing / learning**
+- Python (pandas, NumPy), R (basics), Excel, Power BI
+
+**Also:** C# (university projects, including the web app that uses my database layer)
