@@ -1,8 +1,8 @@
-# Hi, I'm Carlos Montoya 👋
+# Hi, I'm Carlos Montoya Vargas 👋
 
-**Aspiring Data Engineer** | Costa Rica
+**Junior Data Analyst · Aspiring Data Engineer** | Costa Rica
 
-Informatics Engineering student, more than halfway through my degree, focused on
+Computer Engineering student, more than halfway through my degree, focused on
 relational databases. I enjoy designing schemas and writing the SQL logic behind
 them, and I'm building toward data engineering through hands-on projects and
 courses. I'm looking for a junior role in data where I can apply my SQL
